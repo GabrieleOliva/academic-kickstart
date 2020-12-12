@@ -9,6 +9,8 @@ interests:
   - Distributed Optimization
   - Algebraic Graph Theory
   - Critical Infrastructures
+  - Japanese Language
+  - Running
 social:
   - icon: envelope
     icon_pack: fas
