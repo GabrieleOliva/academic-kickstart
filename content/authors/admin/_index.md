@@ -5,7 +5,7 @@ avatar_filename: goliva.jpg
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
 interests:
-  - Distributed Algorithms;Distributed Optimization;
+  - Distributed Algorithms
 social:
   - icon: envelope
     icon_pack: fas
