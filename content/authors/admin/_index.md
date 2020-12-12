@@ -6,7 +6,7 @@ bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
 interests:
   - Distributed Algorithms
-  - DistributedOptimization
+  - Distributed Optimization
   - Algebraic Graph Theory
   - Critical Infrastructures
 social:
@@ -33,9 +33,15 @@ organizations:
     url: https://www.unicampus.it
 education:
   courses:
-    - course: Automatic Control
-      institution: University Campus Bio-Medico of Rome
-      year: ""
+    - course: PhD in Computer Science and Automation
+      institution: University Roma Tre
+      year: 2012
+    - course: M.Sc Degree in Computer Science and Automation Engineering
+      institution: University Roma Tre
+      year: 2008
+    - course: B.Sc in Computer Science Engineering
+      institution: University Roma Tre
+      year: 2005
 email: g.oliva@unicampus.it
 superuser: true
 highlight_name: false
