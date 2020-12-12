@@ -48,7 +48,7 @@ email: g.oliva@unicampus.it
 superuser: true
 highlight_name: false
 ---
-I received the M.sc and the Ph.D. in computer science and automation engineering from the University Roma Tre of Rome, Italy, in 2008 and 2012, respectively. 
+I received the M.sc and the Ph.D. in computer science and automation engineering from the University Roma Tre of Rome, Italy, in 2008 and 2012, respectively.  
 
 I am currently a tenure-tracked Assistant Professor in automatic control with the University Campus Bio-Medico of Rome, Italy. 
 
