@@ -21,7 +21,7 @@ social:
   - link: http://www.coseritylab.it/
     icon_pack: fas
     icon: flask
-  - icon: elsevier
+  - icon: scopus
     icon_pack: ai
     link: https://www.scopus.com/authid/detail.uri?authorId=35194434900
   - icon: google-scholar
@@ -48,7 +48,7 @@ email: g.oliva@unicampus.it
 superuser: true
 highlight_name: false
 ---
-I am currently a tenure-tracked Assistant Professor in automatic control with the University Campus Bio-Medico of Rome, Italy. 
+I am currently a tenure-tracked Assistant Professor in automatic control with the University Campus Bio-Medico of Rome, Italy.  
 
 Since 2019, I am an Associate Editor for the Conference Editorial Board for the IEEE CSS.  Moreover, since 2020, I am an Academic Editor for the journal PLOS ONE. 
 
