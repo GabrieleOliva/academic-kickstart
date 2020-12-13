@@ -21,11 +21,11 @@ social:
   - link: http://www.coseritylab.it/
     icon_pack: fas
     icon: flask
-  - icon: chart-bar
-    icon_pack: fas
+  - icon: scopus
+    icon_pack: ai
     link: https://www.scopus.com/authid/detail.uri?authorId=35194434900
-  - icon: graduation-cap
-    icon_pack: fas
+  - icon: google-scholar
+    icon_pack: ai
     link: https://scholar.google.it/citations?user=j37YPMEAAAAJ&hl=it
   - icon: researchgate
     icon_pack: fab
