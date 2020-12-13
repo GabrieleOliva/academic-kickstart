@@ -102,3 +102,8 @@ design:
 [IJ2] G. Oliva, S. Panzieri and R. Setola, “Fuzzy Dynamic Input-Output Inoperabil- ity Model”, International Journal on Critical Infrastructure Protection, vol. 4, n. 3-4, pp. 165–175, Elsevier, 2011 (doi:10.1016/j.ijcip.2011.09.003).
 
 [IJ1] G. Oliva, S. Panzieri and R. Setola, “Agent Based Input-Output Interdepen- dency Model”, International Journal on Critical Infrastructure Protection, Else- vier, vol. 3, n. 2, pp. 76–82, 2010. (doi:10.1016/j.ijcip.2010.05.001).
+
+---
+subtitle: Journal Papers
+---
+c
