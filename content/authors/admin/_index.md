@@ -21,7 +21,7 @@ social:
   - link: http://www.coseritylab.it/
     icon_pack: fas
     icon: flask
-  - icon: scopus
+  - icon: elsevier
     icon_pack: ai
     link: https://www.scopus.com/authid/detail.uri?authorId=35194434900
   - icon: google-scholar
