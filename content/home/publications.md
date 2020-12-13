@@ -13,11 +13,13 @@ headless: true
 weight: 70
 
 title: Publications
-subtitle: Journal Papers (Submitted)
+subtitle: 
 
 design:
   columns: "1"
 ---
+---
+Journal Papers (Submitted)
 
 [SJ5] M. Santilli, G. Oliva and A. Gasparri “Finite-Time Distributed Tracking for Time-Varying Quadratic Programming", IEEE Transactions on Automatic Control (submitted on December 2020).
 
@@ -30,9 +32,7 @@ design:
 [SJ1] G. Oliva, A. Rikos, A. Gasparri and Christoforos N. Hadjicostis “Distributed Negotiation for Reaching Agreement among Reluctant Players in Social Networks", IEEE Transactions on Automatic Control (Second round of revision submitted on July 2020).
 
 ---
-subtitle: Journal Papers
----
-
+Journal Papers
 
 [IJ42] E. Montijano, G. Oliva and A. Gasparri, “Distributed estimation and control of node centrality in undirected asymmetric networks", IEEE Transactions on Automatic Control (Accepted, to appear).
 
