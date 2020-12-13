@@ -52,10 +52,9 @@ I am currently a tenure-tracked Assistant Professor in automatic control with th
 
 Since 2019, I am an Associate Editor for the [Conference Editorial Board](http://ieeecss.org/conferences/conference-editorial-board#:~:text=The%20CEB%20coordinates%20the%20receiving,the%20IEEE%20Conference%20on%20Control) for the IEEE CSS.  Moreover, since 2020, I am an [Academic Editor](https://journals.plos.org/plosone/static/editorial-board) for the journal PLOS ONE. 
 
-I received the Italian Habilitation to the role of associate professor, disciplinary sector ING-INF/04 (Automatic Control), with validity from 15/10/2018 to 15/10/2024\
-(art. 16, comma 1, Legge 240/10).
+I received the Italian [habilitation](https://asn16.cineca.it/pubblico/miur/esito-abilitato/09%252FG1/2/5) to the role of associate professor, disciplinary sector ING-INF/04 (Automatic Control), with validity from 15/10/2018 to 15/10/2027.
 
-My work is broadly related to the decision making process – more specifically, designing mechanisms that allow or support the decision making process of humans or autonomous agents. 
+My work focuses on designing mechanisms that allow or support the decision making process of humans or autonomous agents. 
 
 I have approached this broad topic at different scales and considering different typologies of decision makers. 
 
