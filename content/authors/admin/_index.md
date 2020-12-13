@@ -16,7 +16,7 @@ social:
     icon_pack: fas
     link: /#contact
   - link: https://orcid.org/0000-0001-7257-4079
-    icon_pack: fab
+    icon_pack: ai
     icon: orcid
   - link: http://www.coseritylab.it/
     icon_pack: fas
@@ -28,7 +28,7 @@ social:
     icon_pack: ai
     link: https://scholar.google.it/citations?user=j37YPMEAAAAJ&hl=it
   - icon: researchgate
-    icon_pack: fab
+    icon_pack: ai
     link: https://www.researchgate.net/profile/Gabriele_Oliva
 organizations:
   - name: University Campus Bio-Medico of Rome
