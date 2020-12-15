@@ -10,7 +10,8 @@ interests:
   - Algebraic Graph Theory
   - Critical Infrastructures
   - Japanese Language
-  - Running (go <a href="http://www.pianomaarriviamo.it">sloths</a>!)
+  - Running (go <a href="http://www.pianomaarriviamo.it"
+    target="_blank">sloths</a>!)
 social:
   - icon: envelope
     icon_pack: fas
