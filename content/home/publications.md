@@ -21,20 +21,28 @@ design:
 ---
 Journal Papers (Submitted)
 
-[SJ5] M. Santilli, G. Oliva and A. Gasparri “Finite-Time Distributed Tracking for Time-Varying Quadratic Programming", IEEE Transactions on Automatic Control (submitted on December 2020).
+[SJ8] A. Scala and G. Oliva “Optimal Dynamical Intervention Planning against COVID-19", Operations Research Letters (submitted on May 2021).
 
-[SJ4] G. Oliva, R. Setola and A. Gasparri “Distributed Markov Chain Redesign for Multi-Agent Decision-Making Problems", IEEE Transactions on Automatic Control (submitted on November 2020).
+[SJ7] A. Scala and G. Oliva “Optimal vaccination for heterogeneous population", Omega (submitted on April 2021).
 
-[SJ3] G. Oliva, L. Faramondi, R. Setola, M. Tesei and E. Zio, “A Multi-Criteria Model for the Security Assessment of Large-Infrastructure Construction Sites", International Journal of Critical Infrastructure Protection (Submitted on November 2020).
+[SJ6] L. Faramondi, G. Oliva, R. Setola and S. Bozoki “Characterizing Robustness to Rank Reversal in Pairwise Comparison Matrices", European Journal of Oper- ational Research (submitted on April 2021).
 
-[SJ2] C. Giudicianni, M. Herrera, A. Di Nardo, G. Oliva and A. Scala, “The faster the better: On the shortest paths role for near real-time decision making of water utilities", Reliability Engineering & System Safety (Second round of revision submitted on December 2020).
+[SJ5] G. Oliva, R. Setola and A. Gasparri “Distributed Markov Chain Redesign for Multi-Agent Decision-Making Problems", IEEE Transactions on Automatic Con- trol (submitted on April 2021).
 
-[SJ1] G. Oliva, A. Rikos, A. Gasparri and Christoforos N. Hadjicostis “Distributed Negotiation for Reaching Agreement among Reluctant Players in Social Networks", IEEE Transactions on Automatic Control (Second round of revision submitted on July 2020).
+[SJ4] G. Oliva, L. Faramondi, R. Setola, M. Tesei and E. Zio, “A Multi-Criteria Model for the Security Assessment of Large-Infrastructure Construction Sites", International Journal of Critical Infrastructure Protection (Submitted on March 2021).
+
+[SJ3] G. Oliva, T. Charalambous, L. Faramondi, R. Setola and A. Gasparri “Best Effort Workload Disparity Minimization in Multi-Agent Systems with Capacity Constraints", IEEE Transactions on Automatic Control (submitted on February 2020).
+
+[SJ2] M. Santilli, G. Oliva and A. Gasparri “Finite-Time Distributed Tracking for Time-Varying Quadratic Programming", IEEE Transactions on Automatic Control (submitted on December 2020).
+
+[SJ1] G. Oliva, A. Rikos, A. Gasparri and Christoforos N. Hadjicostis “Distributed Negotiation for Reaching Agreement among Reluctant Players in Social Networks", IEEE Transactions on Automatic Control (Second round of revision submitted on August 2020).
 
 ---
 Journal Papers
 
-[IJ42] E. Montijano, G. Oliva and A. Gasparri, “Distributed estimation and control of node centrality in undirected asymmetric networks", IEEE Transactions on Automatic Control (Accepted, to appear).
+[IJ43] C. Giudicianni, M. Herrera, A. Di Nardo, G. Oliva and A. Scala, “The faster the better: On the shortest paths role for near real-time decision making of wa- ter utilities", Reliability Engineering & System Safety, vol. 212, 107589, 2021 (doi:10.1016/j.ress.2021.107589).
+
+[IJ42] E. Montijano, G. Oliva and A. Gasparri, “Distributed estimation and con- trol of node centrality in undirected asymmetric networks", IEEE Trans- actions on Automatic Control vol. 66, no. 5, pp. 2304–2311, 2021 (doi: 10.1109/TAC.2020.3004788).
 
 [IJ41] L. Faramondi, G. Oliva and S. Bozòki, “Incomplete Analytic Hierarchy Process with Minimum Weighted Ordinal Violations", International Journal of General Systems, vol. 49, no. 6, pp. 574–601, 2020.
 
@@ -134,6 +142,15 @@ Book Chapters
 [BC2] C. Foglietta, G. Oliva and S. Panzieri, “Online Distributed Evaluation of Interdependent Critical Infrastructures”, In Nonlinear Estimation and Applications to Industrial Systems Control, G. Rigatos ed., Nova Pubblications, 2012.
 
 [BC1] S. De Porcellinis, G. Oliva, S. Panzieri and R. Setola, “A Holistic-Reductionistic Approach for Modeling Interdependencies “, Critical Infrastructure Protection III, M. Papa and S. Shenoi eds., vol. 311/2009, pag. 215-227, Springer, 2009 (isbn:978-3-642-04797-8),
+
+---
+Conference Papers (Submitted)
+
+[SC3] L. Faramondi, G. Oliva and R. Setola “Optimal Man-In-The-Middle Covert Attack", The 16th International Conference on Critical Information Infrastruc- tures (submitted on May 2021).
+
+[SC2] C. Fioravanti and G. Oliva “Distributed and Asynchronous Secure StateRe- construction for Cyber-Physical Systems", The 16th International Conference on Critical Information Infrastructures (submitted on April 2021).
+
+[SC1] M. Lippi, M. Santilli, G. Oliva and A. Gasparri “A Finite-time Distributed Protocol for Link Prediction in Networked Multi-Agent Systems", IEEE Confer- ence on Decision and Control (submitted on March 2021).
 
 ---
 Conference Papers
