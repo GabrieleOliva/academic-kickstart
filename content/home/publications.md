@@ -21,9 +21,7 @@ design:
 ---
 Journal Papers (Submitted)
 
-[SJ8] A. Scala and G. Oliva “Optimal Dynamical Intervention Planning against COVID-19", Operations Research Letters (submitted on May 2021).
-
-[SJ7] A. Scala and G. Oliva “Optimal vaccination for heterogeneous population", Omega (submitted on April 2021).
+[SJ7] A. Scala and G. Oliva “Optimal vaccination for heterogeneous population", Optimization Letters (submitted on May 2021).
 
 [SJ6] L. Faramondi, G. Oliva, R. Setola and S. Bozoki “Characterizing Robustness to Rank Reversal in Pairwise Comparison Matrices", European Journal of Oper- ational Research (submitted on April 2021).
 
