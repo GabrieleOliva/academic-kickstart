@@ -44,8 +44,7 @@ and E. Del Prete, “Integrated Management of Safety and Security in Seveso
 Sites - Sociotechnical Perspectives", Safety Science, vol. 151, 2022 (doi:
 https://doi.org/10.1016/j.ssci.2022.105741).
 
-[IJ47] G. Oliva, A. Rikos, A. Gasparri and Christoforos N. Hadjicostis “Distributed Negotiation for Reaching Agreement among Reluctant Players in Co-
-operative Multi-Agent Systems", IEEE Transactions on Automatic Control, 2022
+[IJ47] G. Oliva, A. Rikos, A. Gasparri and Christoforos N. Hadjicostis “Distributed Negotiation for Reaching Agreement among Reluctant Players in Cooperative Multi-Agent Systems", IEEE Transactions on Automatic Control, 2022
 (doi:10.1109/TAC.2022.3161612).
 
 [IJ46] G. Oliva, A. Farina and R. Setola “Intelligence-aware Batch Processing for
