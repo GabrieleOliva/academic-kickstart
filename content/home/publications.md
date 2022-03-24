@@ -21,9 +21,7 @@ design:
 ---
 Journal Papers (Submitted)
 
-[SJ7] Z. Al Zahra Sanai Dashti, G. Oliva, C. Seatzu, A. Gasparri and M. Franceschelli, “Distributed Mode Computation In Open Multi-Agent Systems", IEEE Control Systems Letters (submitted on February 2022).
-
-[SJ6] S. Guarino, G. Oliva, A. Di Pietro, M. Pollino and V. Rosato, “A Spatial Decision Support System for Prioritizing Repair Interventions on Power Networks", Decision Sciences (submitted on March 2022).
+[SJ6] Z. Al Zahra Sanai Dashti, G. Oliva, C. Seatzu, A. Gasparri and M. Franceschelli, “Distributed Mode Computation In Open Multi-Agent Systems", IEEE Control Systems Letters (submitted on February 2022).
 
 [SJ5] C. Fioravanti, L. Faramondi, G. Oliva and C. N. Hadjicostis “Eavesdropping-Resistant and Privacy-Preserving Consensus", IEEE Transactions on Control of Network Systems (revision submitted on January 2022).
 
