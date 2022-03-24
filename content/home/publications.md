@@ -21,22 +21,44 @@ design:
 ---
 Journal Papers (Submitted)
 
-[SJ7] A. Scala and G. Oliva “Optimal vaccination for heterogeneous population", Optimization Letters (submitted on May 2021).
+[SJ7] Z. Al Zahra Sanai Dashti, G. Oliva, C. Seatzu, A. Gasparri and M. Franceschelli, “Distributed Mode Computation In Open Multi-Agent Systems", IEEE Control Systems Letters (submitted on February 2022).
 
-[SJ6] L. Faramondi, G. Oliva, R. Setola and S. Bozoki “Characterizing Robustness to Rank Reversal in Pairwise Comparison Matrices", European Journal of Oper- ational Research (submitted on April 2021).
+[SJ6] S. Guarino, G. Oliva, A. Di Pietro, M. Pollino and V. Rosato, “A Spatial Decision Support System for Prioritizing Repair Interventions on Power Networks", Decision Sciences (submitted on March 2022).
 
-[SJ5] G. Oliva, R. Setola and A. Gasparri “Distributed Markov Chain Redesign for Multi-Agent Decision-Making Problems", IEEE Transactions on Automatic Con- trol (submitted on April 2021).
+[SJ5] C. Fioravanti, L. Faramondi, G. Oliva and C. N. Hadjicostis “Eavesdropping-Resistant and Privacy-Preserving Consensus", IEEE Transactions on Control of Network Systems (revision submitted on January 2022).
 
-[SJ4] G. Oliva, L. Faramondi, R. Setola, M. Tesei and E. Zio, “A Multi-Criteria Model for the Security Assessment of Large-Infrastructure Construction Sites", International Journal of Critical Infrastructure Protection (Submitted on March 2021).
+[SJ4] G. Oliva, M. Schlueuter, M. Muntomo and A. Scala “Optimal Dynamical Intervention Planning against COVID-19-like epidemics", Plos ONE (submitted on January 2022).
 
-[SJ3] G. Oliva, T. Charalambous, L. Faramondi, R. Setola and A. Gasparri “Best Effort Workload Disparity Minimization in Multi-Agent Systems with Capacity Constraints", IEEE Transactions on Automatic Control (submitted on February 2020).
+[SJ3] A. Scala and G. Oliva “Optimal vaccination based on simple, yet effective, linear constraints and vaccines with different effectiveness", Socio-Economic Planning Sciences (submitted on January 2022).
 
-[SJ2] M. Santilli, G. Oliva and A. Gasparri “Finite-Time Distributed Tracking for Time-Varying Quadratic Programming", IEEE Transactions on Automatic Control (submitted on December 2020).
+[SJ2] L. Faramondi, G. Oliva, R. Setola and S. Bozoki “Characterizing Robustness to Rank Reversal in Pairwise Comparison Matrices", European Journal of Operational Research (Revision submitted on February 2022).
 
-[SJ1] G. Oliva, A. Rikos, A. Gasparri and Christoforos N. Hadjicostis “Distributed Negotiation for Reaching Agreement among Reluctant Players in Social Networks", IEEE Transactions on Automatic Control (Second round of revision submitted on August 2020).
+[SJ1] G. Oliva, T. Charalambous, L. Faramondi, R. Setola and A. Gasparri “Best Effort Workload Disparity Minimization in Multi-Agent Systems with Capacity Constraints", IEEE Transactions on Automatic Control (revision submitted on December 2021).
 
 ---
 Journal Papers
+
+[IJ48] M. Ylönen, A. Tugnoli, G. Oliva, J. Heikkilä, M. Nissilä, M. Iaiani, V.
+Cozzani, R. Setola, G. Assenza, W. Steijn, D. van der Beek, N. Gotcheva
+and E. Del Prete, “Integrated Management of Safety and Security in Seveso
+Sites - Sociotechnical Perspectives", Safety Science, vol. 151, 2022 (doi:
+https://doi.org/10.1016/j.ssci.2022.105741).
+
+[IJ47] G. Oliva, A. Rikos, A. Gasparri and Christoforos N. Hadjicostis “Distributed Negotiation for Reaching Agreement among Reluctant Players in Co-
+operative Multi-Agent Systems", IEEE Transactions on Automatic Control, 2022
+(doi:10.1109/TAC.2022.3161612).
+
+[IJ46] G. Oliva, A. Farina and R. Setola “Intelligence-aware Batch Processing for
+TMA with Bearings-Only Measurement", Sensors, vol. 21, no. 21, 7211, 2021.
+
+[IJ45] G. Oliva, R. Setola and A. Gasparri “Distributed Markov Chain Redesign
+for Multi-Agent Decision-Making Problems", IEEE Transactions on Automatic
+Control (provisionally accepted).
+
+[IJ44] G. Oliva, L. Faramondi, R. Setola, M. Tesei and E. Zio, “A Multi-Criteria
+Model for the Security Assessment of Large-Infrastructure Construction Sites",
+International Journal of Critical Infrastructure Protection, vol. 35, 100460, 2021
+(doi: https://doi.org/10.1016/j.ijcip.2021.100460).
 
 [IJ43] C. Giudicianni, M. Herrera, A. Di Nardo, G. Oliva and A. Scala, “The faster the better: On the shortest paths role for near real-time decision making of wa- ter utilities", Reliability Engineering & System Safety, vol. 212, 107589, 2021 (doi:10.1016/j.ress.2021.107589).
 
@@ -144,14 +166,32 @@ Book Chapters
 ---
 Conference Papers (Submitted)
 
-[SC3] L. Faramondi, G. Oliva and R. Setola “Optimal Man-In-The-Middle Covert Attack", The 16th International Conference on Critical Information Infrastruc- tures (submitted on May 2021).
+[SC3] C. Fioravanti and G. Oliva, “Distributed and Asynchronous Secure State Reconstruction for Cyber-Physical Systems", IEEE Mediterranean Conference on
+Control and Automation 2022 (submitted).
 
-[SC2] C. Fioravanti and G. Oliva “Distributed and Asynchronous Secure StateRe- construction for Cyber-Physical Systems", The 16th International Conference on Critical Information Infrastructures (submitted on April 2021).
+[SC2] C. Fioravanti, G. Oliva and S. Panzieri, “Distributed Asynchronous Projection
+onto the Intersection of Convex Sets", IEEE Mediterranean Conference on Control
+and Automation 2022 (submitted).
 
-[SC1] M. Lippi, M. Santilli, G. Oliva and A. Gasparri “A Finite-time Distributed Protocol for Link Prediction in Networked Multi-Agent Systems", IEEE Confer- ence on Decision and Control (submitted on March 2021).
+[SC1] C. Fioravanti, G. Oliva, S. Panzieri and C.N. Hadjicostis, “Private Consensus
+using Chaotic Oscillator-Based Encryption", IEEE Mediterranean Conference on
+Control and Automation 2022 (submitted).
 
 ---
 Conference Papers
+
+[IC52] A. Furchí, G. Oliva, and A. Gasparri, “Distributed Finite-time Optimization for Compromise-Seeking Agents with Relative Preferences", IEEE European
+Control Conference 2022 (to appear).
+
+[IC51] C. Fioravanti and G. Oliva, “Towards Asynchronous State Reconstruction via Time Projection. Preliminary Results in the case of two Sensors", IEEE European Control Conference 2022 (to Appear).
+
+[IC50] C. Fioravanti, G. Oliva, S. Panzieri and C. N. Hadjicostis “A Secure Communication Protocol with Application to Networked Kalman Filtering", 2022 American Control Conference (to Appear).
+
+[IC49] C. Fioravanti, G. Oliva and R. Setola “Distributed 2-Way Spectral Clustring", 2021 10th International Conference on Mechatronics and Control Engineering (to Appear).
+
+[IC48] M. Lippi, M. Santilli, G. Oliva and A. Gasparri “A Finite-time Distributed Protocol for Link Prediction in Networked Multi-Agent Systems", IEEE Conference on Decision and Control (to Appear).
+
+[IC47] L. Faramondi, G. Oliva and R. Setola “Optimal Man-In-The-Middle Covert Attack", The 16th International Conference on Critical Information Infrastructures (to Appear).
 
 [IC46] M. Santilli, G. Oliva and A. Gasparri “Distributed Finite-Time Algorithm for a Class of Quadratic Optimization Problems with Time-Varying Linear Con- straints", IEEE Conference on Decision and Control (to appear).
 
