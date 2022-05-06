@@ -21,11 +21,11 @@ design:
 ---
 Journal Papers (Submitted)
 
-[SJ5] S. Guarino, G. Oliva, A. Di Pietro, M. Pollino and V. Rosato, “A Spatial De- cision Support System for Prioritizing Repair Interventions on Power Networks", Knowledge and Information Systems (submitted on May 2022).
+[SJ5] S. Guarino, G. Oliva, A. Di Pietro, M. Pollino and V. Rosato, “A Spatial Decision Support System for Prioritizing Repair Interventions on Power Networks", Knowledge and Information Systems (submitted on May 2022).
 
 [SJ4] Z. Al Zahra Sanai Dashti, G. Oliva, C. Seatzu, A. Gasparri and M. Franceschelli, “Distributed Mode Computation In Open Multi-Agent Systems", IEEE Control Systems Letters (submitted on February 2022).
 
-[SJ3] C. Fioravanti, L. Faramondi, G. Oliva and C. N. Hadjicostis “Eavesdropping- Resistant and Privacy-Preserving Consensus", IEEE Transactions on Control of Network Systems (revision submitted on January 2022).
+[SJ3] C. Fioravanti, L. Faramondi, G. Oliva and C. N. Hadjicostis “Eavesdropping-Resistant and Privacy-Preserving Consensus", IEEE Transactions on Control of Network Systems (revision submitted on January 2022).
 
 [SJ2] G. Oliva, M. Schlueuter, M. Muntomo and A. Scala “Dynamical Intervention Planning against COVID-19-like epidemics", Plos ONE (revision submitted on May 2022).
 
@@ -34,9 +34,9 @@ Journal Papers (Submitted)
 ---
 Journal Papers
 
-[IJ50] G. Oliva, T. Charalambous, L. Faramondi, R. Setola and A. Gasparri, “Best Effort Workload Disparity Minimization in Multi-Agent Systems with Capac- ity Constraints", IEEE Transactions on Automatic Control (Conditionally Accepted).
+[IJ50] G. Oliva, T. Charalambous, L. Faramondi, R. Setola and A. Gasparri, “Best Effort Workload Disparity Minimization in Multi-Agent Systems with Capacity Constraints", IEEE Transactions on Automatic Control (Conditionally Accepted).
 
-[IJ49] L. Faramondi, G. Oliva, R. Setola and S. Bozoki “Robustness to Rank Rever- sal in Pairwise Comparison Matrices Based on Uncertainty Bounds", European Journal of Operational Research (doi: https://doi.org/10.1016/j.ejor.2022.04.010).
+[IJ49] L. Faramondi, G. Oliva, R. Setola and S. Bozoki “Robustness to Rank Reversal in Pairwise Comparison Matrices Based on Uncertainty Bounds", European Journal of Operational Research (doi: https://doi.org/10.1016/j.ejor.2022.04.010).
 
 [IJ48] M. Ylönen, A. Tugnoli, G. Oliva, J. Heikkilä, M. Nissilä, M. Iaiani, V. Cozzani, R. Setola, G. Assenza, W. Steijn, D. van der Beek, N. Gotcheva and E. Del Prete, “Integrated Management of Safety and Security in Seveso Sites - Sociotechnical Perspectives", Safety Science, vol. 151, 2022 (doi: https://doi.org/10.1016/j.ssci.2022.105741).
 
