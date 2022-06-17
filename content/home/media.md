@@ -20,33 +20,52 @@ design:
 ---
 ---
 
-https://www.adnkronos.com/covid-e-poi-uno-strumento-per-gestire-future-pandemie_6VVbKxSb449PPoq5j4TRfN
+June 2022, press releases on my <a href="https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0269830">Plos ONE</a> paper on Covid-19 Optimal Intervention Planning
 
-http://www.primapress.it/tecnologia/salute-benessere/7-tech/salutebenessere/emergenza-pandemica-una-ricerca-italiana-stabilisce-i-modelli-d-intervento-per-contenere-la-diffusione.html
+<a href="http://www.midaco-solver.com/index.php/component/content/article?id=240)">News on Midaco Solver page</a>
 
-http://maeci.askanews.it/nT/index.php?u=586&c=5191&t=20220613
 
-https://socialcomitalia.com/magazine/framework-per-lottimizzazione-della-logistica-vaccinale-in-situazioni-di-emergenza-pandemica/
+<a href="https://www.adnkronos.com/covid-e-poi-uno-strumento-per-gestire-future-pandemie_6VVbKxSb449PPoq5j4TRfN">Adnkronos (in Italian)</a>
 
-https://www.affaritaliani.it/roma/gestire-le-pandemie-ora-si-puo-lo-strumento-per-ottimizzare-gli-interventi-801431.html
+<a href="http://www.primapress.it/tecnologia/salute-benessere/7-tech/salutebenessere/emergenza-pandemica-una-ricerca-italiana-stabilisce-i-modelli-d-intervento-per-contenere-la-diffusione.html">Primapress (in Italian)</a>
 
-https://www.blitzquotidiano.it/salute/pubblicato-il-primo-articolo-scientifico-su-un-framework-per-lottimizzazione-della-logistica-vaccinale-3476797/
+<a href="
+http://maeci.askanews.it/nT/index.php?u=586&c=5191&t=20220613">Askanews (in Italian)</a>
 
-https://www.adnkronos.com/covid-e-poi-uno-strumento-per-gestire-future-pandemie_6VVbKxSb449PPoq5j4TRfN
 
-https://it.notizie.yahoo.com/covid-e-poi-uno-strumento-122001272.html
+<a href="https://socialcomitalia.com/magazine/framework-per-lottimizzazione-della-logistica-vaccinale-in-situazioni-di-emergenza-pandemica/">Socialcom Italia (in Italian)</a>
 
-https://www.localpage.eu/2022/06/16/covid-e-poi-uno-strumento-per-gestire-future-pandemie/
+<a href="https://www.affaritaliani.it/roma/gestire-le-pandemie-ora-si-puo-lo-strumento-per-ottimizzare-gli-interventi-801431.html">Affari Italiani (in Italian)</a>
 
-http://www.padovanews.it/2022/06/16/covid-e-poi-uno-strumento-per-gestire-future-pandemie/
+<a href="https://www.blitzquotidiano.it/salute/pubblicato-il-primo-articolo-scientifico-su-un-framework-per-lottimizzazione-della-logistica-vaccinale-3476797/
+">Blitzquotidiano (in Italian)</a>
 
-https://www.zazoom.it/2022-06-16/covid-e-poi-uno-strumento-per-gestire-future-pandemie/11081482/
+<a href="https://it.notizie.yahoo.com/covid-e-poi-uno-strumento-122001272.html">Yahoo News (in Italian)</a>
 
-https://247.libero.it/focus/57306753/41819/emergenza-pandemica-una-ricerca-italiana-stabilisce-i-modelli-d-intervento-per-contenere-la-diffusione/
+<a href="https://www.localpage.eu/2022/06/16/covid-e-poi-uno-strumento-per-gestire-future-pandemie/">Localpage (in Italian)</a>
 
-https://mantovauno.it/salute/covid-e-poi-uno-strumento-per-gestire-future-pandemie/
+<a href="http://www.padovanews.it/2022/06/16/covid-e-poi-uno-strumento-per-gestire-future-pandemie/">Padova News (in Italian)</a>
 
-https://www.mister-x.it/notizie/dettaglio.php?id=32775726&title=pubblicato-il-primo-articolo-scientifico-su-un-framework-per-l%E2%80%99ottimizzazione-della-logistica-vaccinale
+<a href="https://www.zazoom.it/2022-06-16/covid-e-poi-uno-strumento-per-gestire-future-pandemie/11081482/">Zazoom (in Italian)</a>
+
+<a href="https://247.libero.it/focus/57306753/41819/emergenza-pandemica-una-ricerca-italiana-stabilisce-i-modelli-d-intervento-per-contenere-la-diffusione/">Libero News (in Italian)</a>
+
+
+<a href="
+https://mantovauno.it/salute/covid-e-poi-uno-strumento-per-gestire-future-pandemie/">Mantova Uno (in Italian)</a>
+
+<a href="
+https://www.mister-x.it/notizie/dettaglio.php?id=32775726&title=pubblicato-il-primo-articolo-scientifico-su-un-framework-per-l%E2%80%99ottimizzazione-della-logistica-vaccinale">Mister-x (in Italian)</a>
+
+
+
+
+
+
+
+
+
+
 
 https://www.lifestyleblog.it/blog/2022/06/covid-e-poi-uno-strumento-per-gestire-future-pandemie/
 
