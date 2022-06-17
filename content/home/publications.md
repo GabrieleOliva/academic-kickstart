@@ -21,18 +21,22 @@ design:
 ---
 Journal Papers (Submitted)
 
-[SJ5] S. Guarino, G. Oliva, A. Di Pietro, M. Pollino and V. Rosato, “A Spatial Decision Support System for Prioritizing Repair Interventions on Power Networks", Knowledge and Information Systems (submitted on May 2022).
+[SJ5] L. Faramondi, G. Oliva, R. Setola and S. Bozoki, "Robustness to Rank Reversal in Interval Pairwise Comparison Matrices", IEEE Transactions on Systems, Man and Cybernetics: Systems (Submitted on June 2022).
 
-[SJ4] Z. Al Zahra Sanai Dashti, G. Oliva, C. Seatzu, A. Gasparri and M. Franceschelli, “Distributed Mode Computation In Open Multi-Agent Systems", IEEE Control Systems Letters (submitted on February 2022).
+[SJ4] C. Fioravanti, G. Oliva and C. N. Hadjicostis, G. Oliva, C. Seatzu, A. Gasparri and M. Franceschelli, “A Secure Gossip Algorithm against Intermittently Malicious Agents", IEEE Control Systems Letters (submitted on June 2022).
 
-[SJ3] C. Fioravanti, L. Faramondi, G. Oliva and C. N. Hadjicostis “Eavesdropping-Resistant and Privacy-Preserving Consensus", IEEE Transactions on Control of Network Systems (revision submitted on January 2022).
+[SJ3] S. Guarino, G. Oliva, A. Di Pietro, M. Pollino and V. Rosato, “A Spatial Decision Support System for Prioritizing Repair Interventions on Power Networks", Knowledge and Information Systems (submitted on May 2022).
 
-[SJ2] G. Oliva, M. Schlueuter, M. Muntomo and A. Scala “Dynamical Intervention Planning against COVID-19-like epidemics", Plos ONE (revision submitted on May 2022).
+[SJ2] C. Fioravanti, L. Faramondi, G. Oliva and C. N. Hadjicostis “Eavesdropping-Resistant and Privacy-Preserving Consensus", IEEE Transactions on Control of Network Systems (revision submitted on January 2022).
 
 [SJ1] A. Scala and G. Oliva “Optimal vaccination based on simple, yet effective, linear constraints and vaccines with different effectiveness", Socio-Economic Planning Sciences (submitted on January 2022).
 
 ---
 Journal Papers
+
+[IJ52] Z. Al Zahra Sanai Dashti, G. Oliva, C. Seatzu, A. Gasparri and M. Franceschelli, “Distributed Mode Computation In Open Multi-Agent Systems", IEEE Control Systems Letters (Accepted, to appear).
+
+[IJ51] G. Oliva, M. Schlueuter, M. Munetomo and A. Scala “Dynamical Intervention Planning against COVID-19-like epidemics", Plos ONE 2022 (doi:10.1371/journal.pone.0269830).
 
 [IJ50] G. Oliva, T. Charalambous, L. Faramondi, R. Setola and A. Gasparri, “Best Effort Workload Disparity Minimization in Multi-Agent Systems with Capacity Constraints", IEEE Transactions on Automatic Control (Conditionally Accepted).
 
@@ -141,7 +145,7 @@ International Journal of Critical Infrastructure Protection, vol. 35, 100460, 20
 Book Chapters
 
 
-[BC8] M. Nobili, G. Oliva and R. Setola, “Experience-Driven Decision Support Sys- tems: The Analytic Hierarchy Process", in Digital Humanism – A human-centric approach to digital technologies, Rodríguez-Lluesma, Bertolaso and Capone Eds., Palgrave Macmillan (to appear).
+[BC8] M. Nobili, G. Oliva and R. Setola, “Experience-Driven Decision Support Systems: The Analytic Hierarchy Process", in Digital Humanism – A human-centric approach to digital technologies, Rodríguez-Lluesma, Bertolaso and Capone Eds., Palgrave Macmillan (to appear).
 
 [BC7] L. Faramondi, G. Assenza, G. Oliva , E. Del Prete, F. Pera and R. Setola, “A Strategy to Improve Infrastructure Survivability via Prioritizing Critical Nodes Protection", in Issues on Risk Analysis for Critical Infrastructure Protec- tion, Rosato and Di Pietro Eds., Intechopen, (to appear).
 
