@@ -51,24 +51,21 @@ http://maeci.askanews.it/nT/index.php?u=586&c=5191&t=20220613">Askanews (in Ital
 <a href="https://247.libero.it/focus/57306753/41819/emergenza-pandemica-una-ricerca-italiana-stabilisce-i-modelli-d-intervento-per-contenere-la-diffusione/">Libero News (in Italian)</a>
 
 
-<a href="
-https://mantovauno.it/salute/covid-e-poi-uno-strumento-per-gestire-future-pandemie/">Mantova Uno (in Italian)</a>
+<a href="https://mantovauno.it/salute/covid-e-poi-uno-strumento-per-gestire-future-pandemie/">Mantova Uno (in Italian)</a>
 
-<a href="
-https://www.mister-x.it/notizie/dettaglio.php?id=32775726&title=pubblicato-il-primo-articolo-scientifico-su-un-framework-per-l%E2%80%99ottimizzazione-della-logistica-vaccinale">Mister-x (in Italian)</a>
+<a href="https://www.mister-x.it/notizie/dettaglio.php?id=32775726&title=pubblicato-il-primo-articolo-scientifico-su-un-framework-per-l%E2%80%99ottimizzazione-della-logistica-vaccinale">Mister-x (in Italian)</a>
 
+<a href="https://www.lifestyleblog.it/blog/2022/06/covid-e-poi-uno-strumento-per-gestire-future-pandemie/">Lifestyleblog(in Italian)</a>
 
+<a href="https://www.italiasera.it/covid-e-poi-uno-strumento-per-gestire-future-pandemie/">Italia Sera (in Italian)</a>
 
-
-
-
+<a href="https://www.sbircialanotizia.it/covid-e-poi-uno-strumento-per-gestire-future-pandemie/">Sbircia la Notizia (in Italian)</a>
 
 
 
 
 
-https://www.lifestyleblog.it/blog/2022/06/covid-e-poi-uno-strumento-per-gestire-future-pandemie/
 
-https://www.italiasera.it/covid-e-poi-uno-strumento-per-gestire-future-pandemie/
 
-https://www.sbircialanotizia.it/covid-e-poi-uno-strumento-per-gestire-future-pandemie/
+
+
