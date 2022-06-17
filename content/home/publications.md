@@ -23,7 +23,7 @@ Journal Papers (Submitted)
 
 [SJ5] L. Faramondi, G. Oliva, R. Setola and S. Bozoki, "Robustness to Rank Reversal in Interval Pairwise Comparison Matrices", IEEE Transactions on Systems, Man and Cybernetics: Systems (Submitted on June 2022).
 
-[SJ4] C. Fioravanti, G. Oliva and C. N. Hadjicostis, G. Oliva, C. Seatzu, A. Gasparri and M. Franceschelli, “A Secure Gossip Algorithm against Intermittently Malicious Agents", IEEE Control Systems Letters (submitted on June 2022).
+[SJ4] C. Fioravanti, G. Oliva and C. N. Hadjicostis, “A Secure Gossip Algorithm against Intermittently Malicious Agents", IEEE Control Systems Letters (submitted on June 2022).
 
 [SJ3] S. Guarino, G. Oliva, A. Di Pietro, M. Pollino and V. Rosato, “A Spatial Decision Support System for Prioritizing Repair Interventions on Power Networks", Knowledge and Information Systems (submitted on May 2022).
 
@@ -36,7 +36,7 @@ Journal Papers
 
 [IJ52] Z. Al Zahra Sanai Dashti, G. Oliva, C. Seatzu, A. Gasparri and M. Franceschelli, “Distributed Mode Computation In Open Multi-Agent Systems", IEEE Control Systems Letters (Accepted, to appear).
 
-[IJ51] G. Oliva, M. Schlueuter, M. Munetomo and A. Scala “Dynamical Intervention Planning against COVID-19-like epidemics", Plos ONE 2022 (doi:10.1371/journal.pone.0269830).
+[IJ51] G. Oliva, M. Schlueuter, M. Munetomo and A. Scala “Dynamical Intervention Planning against COVID-19-like epidemics", Plos ONE, 2022 (doi:10.1371/journal.pone.0269830).
 
 [IJ50] G. Oliva, T. Charalambous, L. Faramondi, R. Setola and A. Gasparri, “Best Effort Workload Disparity Minimization in Multi-Agent Systems with Capacity Constraints", IEEE Transactions on Automatic Control (Conditionally Accepted).
 
