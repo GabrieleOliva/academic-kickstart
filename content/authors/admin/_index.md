@@ -5,9 +5,10 @@ avatar_filename: goliva.jpg
 bio: ""
 interests:
   - Multi-Agent Systems
-  - Distributed Algorithms
-  - Distributed Optimization
-  - Algebraic Graph Theory
+  - Distributed Algorithms and Optimization
+  - Security and Privacy in Multi-Agent Systems
+  - Multi-Criteria Decision-Making
+  - Optimization
   - Critical Infrastructures
   - 日本語 (Japanese Language)
   - Running (go <a href="http:\\www.pianomaarriviamo.it">sloths</a>!)
