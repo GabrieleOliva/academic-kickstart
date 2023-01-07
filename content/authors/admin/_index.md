@@ -1,6 +1,6 @@
 ---
 title: Gabriele Oliva
-role: Assistant Professor in Automatic Control
+role: Associate Professor in Automatic Control
 avatar_filename: goliva.jpg
 bio: ""
 interests:
@@ -33,7 +33,7 @@ social:
     link: https://www.researchgate.net/profile/Gabriele_Oliva
 organizations:
   - name: University Campus Bio-Medico of Rome
-    url: https://www.unicampus.it
+    url: [https://www.unicampus.it](https://www.unicampus.it/en/info/automatic-control)
 education:
   courses:
     - course: PhD in Computer Science and Automation
