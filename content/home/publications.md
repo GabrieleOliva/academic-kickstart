@@ -19,22 +19,11 @@ design:
   columns: "1"
 ---
 ---
-Journal Papers (Submitted)
-
-[SJ5] L. Faramondi, G. Oliva, R. Setola and S. Bozoki, "Robustness to Rank Reversal in Interval Pairwise Comparison Matrices", IEEE Transactions on Systems, Man and Cybernetics: Systems (Submitted on June 2022).
-
-[SJ4] C. Fioravanti, G. Oliva and C. N. Hadjicostis, “A Secure Gossip Algorithm against Intermittently Malicious Agents", IEEE Control Systems Letters (submitted on June 2022).
-
-[SJ3] S. Guarino, G. Oliva, A. Di Pietro, M. Pollino and V. Rosato, “A Spatial Decision Support System for Prioritizing Repair Interventions on Power Networks", Knowledge and Information Systems (submitted on May 2022).
-
-[SJ2] C. Fioravanti, L. Faramondi, G. Oliva and C. N. Hadjicostis “Eavesdropping-Resistant and Privacy-Preserving Consensus", IEEE Transactions on Control of Network Systems (revision submitted on January 2022).
-
-[SJ1] A. Scala and G. Oliva “Optimal vaccination based on simple, yet effective, linear constraints and vaccines with different effectiveness", Socio-Economic Planning Sciences (submitted on January 2022).
-
----
 Journal Papers
 
-[IJ52] Z. Al Zahra Sanai Dashti, G. Oliva, C. Seatzu, A. Gasparri and M. Franceschelli, “Distributed Mode Computation In Open Multi-Agent Systems", IEEE Control Systems Letters (Accepted, to appear).
+[IJ53] C. Fioravanti, G. Oliva and C. N. Hadjicostis, “Secure Gossip against Intermittently Malicious Agents", Systems & Control Letters, vol. 171, 105415, 2023 (doi: https://doi.org/10.1016/j.sysconle.2022.105415).
+
+[IJ52] Z. Al Zahra Sanai Dashti, G. Oliva, C. Seatzu, A. Gasparri and M. Franceschelli, “Distributed Mode Computation In Open Multi-Agent Systems", IEEE Control Systems Letters, vol. 6, pp. 3481–3486, 2022 (doi:10.1109/LCSYS.2022.3185419).
 
 [IJ51] G. Oliva, M. Schlueuter, M. Munetomo and A. Scala “Dynamical Intervention Planning against COVID-19-like epidemics", Plos ONE, 2022 (doi:10.1371/journal.pone.0269830).
 
@@ -145,7 +134,7 @@ International Journal of Critical Infrastructure Protection, vol. 35, 100460, 20
 Book Chapters
 
 
-[BC8] M. Nobili, G. Oliva and R. Setola, “Experience-Driven Decision Support Systems: The Analytic Hierarchy Process", in Digital Humanism – A human-centric approach to digital technologies, Rodríguez-Lluesma, Bertolaso and Capone Eds., Palgrave Macmillan (to appear).
+[BC8] M. Nobili, G. Oliva and R. Setola, “Experience-Driven Decision Support Systems: The Analytic Hierarchy Process", in Digital Humanism – A human-centric approach to digital technologies, Rodríguez-Lluesma, Bertolaso and Capone Eds., Palgrave Macmillan 2022 (ISBN: 978-3-030-97054-3).
 
 [BC7] L. Faramondi, G. Assenza, G. Oliva , E. Del Prete, F. Pera and R. Setola, “A Strategy to Improve Infrastructure Survivability via Prioritizing Critical Nodes Protection", in Issues on Risk Analysis for Critical Infrastructure Protec- tion, Rosato and Di Pietro Eds., Intechopen, (to appear).
 
@@ -162,29 +151,22 @@ Book Chapters
 [BC1] S. De Porcellinis, G. Oliva, S. Panzieri and R. Setola, “A Holistic-Reductionistic Approach for Modeling Interdependencies “, Critical Infrastructure Protection III, M. Papa and S. Shenoi eds., vol. 311/2009, pag. 215-227, Springer, 2009 (isbn:978-3-642-04797-8),
 
 ---
-Conference Papers (Submitted)
-
-[SC2] G. Oliva, S. Guarino, R. Setola, G. De Angelis and M. Coradini, “Identifying Residential Areas based on Open Source Data: a Multi-Criteria Holistic Indicator to Optimize Resource Allocation During a Pandemic", The 17th International Conference on Critical Information Infrastructures Security (Submitted).
-
-[SC1] A. Rikos, G. Oliva, C. Hadjicostis and K. Johansson, “Distributed Finite Time k-means Clustering with Quantized Communucation and Transmission Stopping", 61st IEEE Conference on Decision and Control (Submitted).
-
----
 Conference Papers
 
-[IC55] C. Fioravanti and G. Oliva, “Distributed and Asynchronous Secure State Re- construction for Cyber-Physical Systems", IEEE Mediterranean Conference on Control and Automation 2022 (to appear).
+[IC55] C. Fioravanti, G. Oliva and S. Panzieri, “Distributed and Asynchronous Secure State Reconstruction for Cyber-Physical Systems", IEEE Mediterranean Conference on Control and Automation, pp. 815–820, 2022.
 
-[IC54] C. Fioravanti, G. Oliva and S. Panzieri, “Distributed Asynchronous Projection onto the Intersection of Convex Sets", IEEE Mediterranean Conference on Control and Automation 2022 (to appear).
+[IC54] C. Fioravanti, G. Oliva and S. Panzieri, “Distributed Asynchronous Projection onto the Intersection of Convex Sets", IEEE Mediterranean Conference on Control and Automation, pp. 37–42, 2022.
 
-[IC53] C. Fioravanti, G. Oliva, S. Panzieri and C.N. Hadjicostis, “Private Consensus using Chaotic Oscillator-Based Encryption", IEEE Mediterranean Conference on Control and Automation 2022 (to appear).
+[IC53] C. Fioravanti, G. Oliva, S. Panzieri and C.N. Hadjicostis, “Private Consensus using Chaotic Oscillator-Based Encryption", IEEE Mediterranean Conference on Control and Automation, pp. 927-932, 2022.
 
 [IC52] A. Furchí, G. Oliva, and A. Gasparri, “Distributed Finite-time Optimization for Compromise-Seeking Agents with Relative Preferences", IEEE European
-Control Conference 2022 (to appear).
+Control Conference, pp. 2317–2323, 2022.
 
-[IC51] C. Fioravanti and G. Oliva, “Towards Asynchronous State Reconstruction via Time Projection. Preliminary Results in the case of two Sensors", IEEE European Control Conference 2022 (to Appear).
+[IC51] C. Fioravanti and G. Oliva, “Towards Asynchronous State Reconstruction via Time Projection. Preliminary Results in the case of two Sensors", IEEE European Control Conference, pp. 938–943, 2022.
 
 [IC50] C. Fioravanti, G. Oliva, S. Panzieri and C. N. Hadjicostis “A Secure Communication Protocol with Application to Networked Kalman Filtering", 2022 American Control Conference (to Appear).
 
-[IC49] C. Fioravanti, G. Oliva and R. Setola “Distributed 2-Way Spectral Clustring", 2021 10th International Conference on Mechatronics and Control Engineering (to Appear).
+[IC49] C. Fioravanti, G. Oliva and R. Setola “Distributed 2-Way Spectral Clustring", 2021 10th International Conference on Mechatronics and Control Engineering (https://link.springer.com/book/9789811915390).
 
 [IC48] M. Lippi, M. Santilli, G. Oliva and A. Gasparri “A Finite-time Distributed Protocol for Link Prediction in Networked Multi-Agent Systems", IEEE Conference on Decision and Control (to Appear).
 
