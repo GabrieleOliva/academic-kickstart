@@ -53,13 +53,4 @@ I am an Associate Professor in Automatic Control with the [University Campus Bio
 
 Since 2019, I am an Associate Editor of the IEEE Control Systems Society [Conference Editorial Board](http://ieeecss.org/conferences/conference-editorial-board#:~:text=The%20CEB%20coordinates%20the%20receiving,the%20IEEE%20Conference%20on%20Control).  Moreover, since 2020, I am an Academic Editor for the journal [PLOS ONE](https://journals.plos.org/plosone/static/editorial-board) and, since 2022, I am an Associate Editor for the [IEEE Control Systems Letters](http://ieeecss.org/publication/ieee-control-systems-letters/editors) journal.
 
-
-My work focuses on designing mechanisms that allow or support the decision making process of humans or autonomous agents. 
-
-I have approached this broad topic at different scales and considering different typologies of decision makers. 
-
-In the context of autonomous multi-agent systems, my work has been focused on the development of distributed or decentralized interaction mechanisms to allow autonomous agents to collectively carry out complex decision tasks, such as solving optimization problems, clustering measured data, estimating network parameters or reaching an agreement. With respect to this scale, the main applications considered during my work include sensor networks, indoor localization and mobile agents.
-
- In the context of human decision making, my work has been focused on the development of decision support systems considering innovative ways to combine objective data with possibly incomplete, ambiguous or contradictory information elicited from multiple domain experts. With respect to this dimension, the main applications considered during my work include Critical Infrastructure Protection and Cyber Security.
-
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/cv.pdf" "newtab" >}}CV{{< /staticref >}}.
