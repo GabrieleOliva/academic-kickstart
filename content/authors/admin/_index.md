@@ -49,7 +49,7 @@ email: g.oliva@unicampus.it
 superuser: true
 highlight_name: false
 ---
-I am currently a tenure-track Assistant Professor in automatic control with the [University Campus Bio-Medico of Rome](https://www.unicampus.it/ricerca/unita-di-ricerca/automatica/organico), Italy.  
+I am currently an Associate Professor in Automatic Control with the [University Campus Bio-Medico of Rome](https://www.unicampus.it/ricerca/unita-di-ricerca/automatica/organico), Italy, where I serve as the director of the Complex Systems and Security Lab (http://www.coseritylab.it/)
 
 Since 2019, I am an Associate Editor of the IEEE Control Systems Society [Conference Editorial Board](http://ieeecss.org/conferences/conference-editorial-board#:~:text=The%20CEB%20coordinates%20the%20receiving,the%20IEEE%20Conference%20on%20Control).  Moreover, since 2020, I am an Academic Editor for the journal [PLOS ONE](https://journals.plos.org/plosone/static/editorial-board) and, since 2022, I am an Associate Editor for the [IEEE Control Systems Letters](http://ieeecss.org/publication/ieee-control-systems-letters/editors) journal.
 
